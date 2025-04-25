@@ -9,7 +9,7 @@ const about = {
   name: 'Doan Van Nhan',
   role: 'Student in HCMUE',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Im currently a student at Ho Chi Minh City University of Education, pursuing a career in Information Technology. With a strong desire to grow professionally, I continuously strive to improve my skills and knowledge. I aim to become a competent developer who brings value to every project through a responsible and results-driven work ethic.',
   resume: 'https://example.com',
   social: {
     linkedin: 'www.linkedin.com/in/nhanhcmue',
