@@ -23,26 +23,26 @@ const projects = [
   {
     name: 'Project 1',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Thuc Tap O FlashVN',
+    stack: ['PHP'],
+    sourceCode: 'https://github.com/NhanHcmue/flashvn_game.git',
+    livePreview: 'http://flashvn.infy.uk/login.php',
   },
   {
     name: 'Project 2',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Do an cuoi ki muon pttkhdt',
     stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/NhanHcmue/PTTKHDT.git',
+    livePreview: 'https://github.com/NhanHcmue/PTTKHDT.git',
   },
   {
     name: 'Project 3',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Do an cuoi ki muon lap trinh mobile',
+    stack: ['SASS', 'TypeScript', 'React-Native'],
+    sourceCode: 'https://github.com/NhanHcmue/ReactNative_MoBi.git',
+    livePreview: 'https://github.com/NhanHcmue/ReactNative_MoBi.git',
   },
 ]
 
@@ -54,18 +54,15 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'C++',
+  'C#',
+  'PHP',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'vannhan.hcmue@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
