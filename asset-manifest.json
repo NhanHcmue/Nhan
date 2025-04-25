@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Nhan/static/css/main.7fdc4bab.css",
-    "main.js": "/Nhan/static/js/main.cabdf842.js",
+    "main.js": "/Nhan/static/js/main.f6a28726.js",
     "index.html": "/Nhan/index.html",
     "main.7fdc4bab.css.map": "/Nhan/static/css/main.7fdc4bab.css.map",
-    "main.cabdf842.js.map": "/Nhan/static/js/main.cabdf842.js.map"
+    "main.f6a28726.js.map": "/Nhan/static/js/main.f6a28726.js.map"
   },
   "entrypoints": [
     "static/css/main.7fdc4bab.css",
-    "static/js/main.cabdf842.js"
+    "static/js/main.f6a28726.js"
   ]
 }
