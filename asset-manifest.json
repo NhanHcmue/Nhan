@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nhan/static/css/main.7fdc4bab.css",
+    "main.js": "/Nhan/static/js/main.ef7e8a20.js",
+    "index.html": "/Nhan/index.html",
+    "main.7fdc4bab.css.map": "/Nhan/static/css/main.7fdc4bab.css.map",
+    "main.ef7e8a20.js.map": "/Nhan/static/js/main.ef7e8a20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdc4bab.css",
+    "static/js/main.ef7e8a20.js"
+  ]
+}
